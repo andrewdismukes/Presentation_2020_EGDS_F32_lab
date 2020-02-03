@@ -12,4 +12,4 @@ theme: sky
 ### Background & Signifigance
 - The *overall objective* of the proposed research is to examine the role of internalizing symptoms across childhood and into adolescence in the development of SU.
 ---
-### Training Plan
+### Training Plan 
