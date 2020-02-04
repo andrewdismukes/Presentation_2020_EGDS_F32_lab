@@ -1,17 +1,43 @@
 ---
-author: Andrew Dismukes
-title: Lab Presentation
-date: Feb 3, 2020
-revealjs-url: 'reveal.js'
-theme: solarized 
+title: "EGDS Lab Presentation"
+subtitle: "F32 Submission"
+author: "Andrew Dismukes"
+institute: "Penn State"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    css: [fc, fc-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: true
 ---
+
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg)
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+???
+
+---
+class: center, middle
+
 ## Introduction
+
+
+
 ---
+class: inverse, center
+
 ## Goals
 - General Feedback
 - Grantsmanship
 - Specific feedback on critical sections
 ---
+
 ### Background & Signifigance
 - The *overall objective* of the proposed research is to examine the role of internalizing symptoms across childhood and into adolescence in the development of SU.
 ---
@@ -35,4 +61,4 @@ To test for sex differences in the relationship between SU and internalizing sym
  **Hypothesis 3a: Elevated birth parent SU will predict increased SU in adolescence and that higher levels of birth parent internalizing symptoms will be associated with higher levels of child internalizing symptoms in adolescence. Hypothesis 3b: Early parenting practices will moderate heritable influences on childhood internalizing symptoms to increase risk for adolescent SU.**
 ---
 ### Training Plan 
----
+--
