@@ -27,7 +27,12 @@ https://github.com/andrewdismukes/Presentation_2020_EGDS_F32_lab
 
 Twitter: adismuke
 ---
+## Why this?
 
+I need the help,
+And this can be a good group project for thinking through aims
+
+---
 class: inverse, middle
 
 ## Goals
@@ -36,7 +41,7 @@ class: inverse, middle
  - General Feedback
  - Grantsmanship
  - Specific feedback on critical sections
-
+ - general learning
 ]
 ---
 
@@ -44,8 +49,7 @@ class: inverse, middle
 - The *overall objective* of the proposed research is to examine the role of internalizing symptoms across childhood and into adolescence in the development of SU.
 ---
 ### So why this? 
---  
-## Started with antisocial behavior and ELA.  
+##Started with antisocial behavior and ELA.  
 ##but always interested in internalizing.   
 ##and I think there is a real problem here!   
 ---
@@ -71,10 +75,25 @@ To test for sex differences in the relationship between SU and internalizing sym
 ---
 ### Training Plan 
 
+My overall training goals are to gain expertise in **family and peer social processes** from an **explicitly developmental framework** to examine **internalizing symptoms and substance use**.
 ---
-### Conceptual Model
+### Conceptual Model  
+
 class: center, middle
+  
 <img src="ConceptualFigure.jpg" style="width: 90%" />
-
 ---
+### Training Plan
 
+1. Gain expertise in family-based behavioral genetics approaches, including gene environment interactions.
+
+2. Gain expertise in developmental methodology.
+
+3. Gain expertise in family processes.
+---
+### Training Plan
+
+4. Strengthen Career Development Skills.
+
+5. Responsible Conduct of Research.
+---
