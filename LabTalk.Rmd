@@ -9,39 +9,46 @@ output:
     css: [fc, fc-fonts]
     lib_dir: libs
     nature:
+      beforeInit: "beforeInit.js"
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: true
----
-
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg)
-
-```{r setup, include=FALSE}
-options(htmltools.dir.version = FALSE)
-```
-
-???
-
----
+      
 class: center, middle
+---
 
 ## Introduction
 
+All slides available as a website at: https://andrewdismukes.github.io/Presentation_2020_EGDS_F32_lab/LabTalk.html
 
+or in raw form at: 
 
+https://github.com/andrewdismukes/Presentation_2020_EGDS_F32_lab
+
+Twitter: adismuke
 ---
-class: inverse, center
+
+class: inverse, middle
 
 ## Goals
-- General Feedback
-- Grantsmanship
-- Specific feedback on critical sections
+.pull-left[
+
+ - General Feedback
+ - Grantsmanship
+ - Specific feedback on critical sections
+
+]
 ---
 
 ### Background & Signifigance
 - The *overall objective* of the proposed research is to examine the role of internalizing symptoms across childhood and into adolescence in the development of SU.
 ---
-
+### So why this? 
+--  
+## Started with antisocial behavior and ELA.  
+##but always interested in internalizing.   
+##and I think there is a real problem here!   
+---
 ### Specific Aims
 
 To test the association between longitudinal trajectories of internalizing symptoms and SU in adolescence. 
@@ -58,7 +65,16 @@ To test for sex differences in the relationship between SU and internalizing sym
 ### Specific Aims
  To test the relationship between birth parent and adoptive parent contributions to the relationship between SU and internalizing symptoms across early childhood and puberty. 
  
- **Hypothesis 3a: Elevated birth parent SU will predict increased SU in adolescence and that higher levels of birth parent internalizing symptoms will be associated with higher levels of child internalizing symptoms in adolescence. Hypothesis 3b: Early parenting practices will moderate heritable influences on childhood internalizing symptoms to increase risk for adolescent SU.**
+ **Hypothesis 3a: Elevated birth parent SU will predict increased SU in adolescence and that higher levels of birth parent internalizing symptoms will be associated with higher levels of child internalizing symptoms in adolescence.**
+
+ **Hypothesis 3b: Early parenting practices will moderate heritable influences on childhood internalizing symptoms to increase risk for adolescent SU.**
 ---
 ### Training Plan 
---
+
+---
+### Conceptual Model
+class: center, middle
+<img src="ConceptualFigure.jpg" style="width: 90%" />
+
+---
+
