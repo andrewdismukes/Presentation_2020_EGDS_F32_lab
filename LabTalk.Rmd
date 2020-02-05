@@ -13,10 +13,14 @@ output:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: true
-      
-class: center, middle
----
 
+---     
+class: center, middle
+
+## Just Because...
+
+<img src="Dogs.jpg" style="width: 40%" />
+---
 ## Introduction
 
 All slides available as a website at: https://andrewdismukes.github.io/Presentation_2020_EGDS_F32_lab/LabTalk.html
