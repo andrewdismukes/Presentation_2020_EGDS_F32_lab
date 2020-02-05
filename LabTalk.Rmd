@@ -21,7 +21,7 @@ class: center, middle
 
 All slides available as a website at: https://andrewdismukes.github.io/Presentation_2020_EGDS_F32_lab/LabTalk.html
 
-or in raw form at: 
+or in markdown form at: 
 
 https://github.com/andrewdismukes/Presentation_2020_EGDS_F32_lab
 
