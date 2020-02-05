@@ -1,6 +1,6 @@
 ---
 title: "EGDS Lab Presentation"
-subtitle: "F32 Submission"
+subtitle: "F Submission"
 author: "Andrew Dismukes"
 institute: "Penn State"
 date: "`r Sys.Date()`"
@@ -25,12 +25,6 @@ or in raw form at:
 
 https://github.com/andrewdismukes/Presentation_2020_EGDS_F32_lab
 
-Twitter: adismuke
----
-## Why this?
-
-I need the help,
-And this can be a good group project for thinking through aims
 
 ---
 class: inverse, middle
@@ -44,14 +38,30 @@ class: inverse, middle
  - general learning
 ]
 ---
+### So why this?   
+--
 
-### Background & Signifigance
-- The *overall objective* of the proposed research is to examine the role of internalizing symptoms across childhood and into adolescence in the development of SU.
+##Started with antisocial behavior and ELA.   
+--
+
+##but always interested in internalizing.     
+--
+
+##and I think there is a real problem here!    
 ---
-### So why this? 
-##Started with antisocial behavior and ELA.  
-##but always interested in internalizing.   
-##and I think there is a real problem here!   
+### Specific Aims
+
+The *overall objective* of the proposed research is to examine the role of internalizing symptoms across childhood and into adolescence in the development of SU.
+
+--
+
+## General Questions and feedback on the text:
+--
+
+What is missing that should be there?  
+--
+
+What is there that shouldn't be?  
 ---
 ### Specific Aims
 
@@ -72,16 +82,17 @@ To test for sex differences in the relationship between SU and internalizing sym
  **Hypothesis 3a: Elevated birth parent SU will predict increased SU in adolescence and that higher levels of birth parent internalizing symptoms will be associated with higher levels of child internalizing symptoms in adolescence.**
 
  **Hypothesis 3b: Early parenting practices will moderate heritable influences on childhood internalizing symptoms to increase risk for adolescent SU.**
----
-### Training Plan 
-
-My overall training goals are to gain expertise in **family and peer social processes** from an **explicitly developmental framework** to examine **internalizing symptoms and substance use**.
+ 
 ---
 ### Conceptual Model  
 
 class: center, middle
   
 <img src="ConceptualFigure.jpg" style="width: 90%" />
+---
+### Training Plan 
+
+My overall training goals are to gain expertise in **family and peer social processes** from an **explicitly developmental framework** to examine **internalizing symptoms and substance use**.
 ---
 ### Training Plan
 
